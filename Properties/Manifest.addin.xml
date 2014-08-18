@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Addin namespace="XSThemeEditor" id="XSThemeEditor" name="XSThemeEditor" author="JHaas" copyright="JHaas" description="XSThemeEditor" category="IDE extensions" version="1.0">
+<Addin 	namespace="XSThemeEditor"
+	    id="XSThemeEditor"
+	    name="XSThemeEditor"
+	    author="JHaas"
+	    copyright="JHaas"
+	    description="XSThemeEditor"
+	    category="IDE extensions"
+	    version="1.0">
 	<Dependencies>
-		<Addin id="::MonoDevelop.Core" version="4.0" />
-		<Addin id="::MonoDevelop.Ide" version="4.0" />
+		<Addin 	id="::MonoDevelop.Core"
+				version="4.0" />
+		<Addin 	id="::MonoDevelop.Ide"
+				version="4.0" />
 	</Dependencies>
 	<Runtime>
 	</Runtime>
